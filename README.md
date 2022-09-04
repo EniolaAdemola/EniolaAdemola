@@ -7,8 +7,8 @@ Here are some ideas to get you started: -->
 
 <div align="center">
   <img src ="./eniola-banner.png" />
-  
 </div>
+
 
  <br/>
 
@@ -66,6 +66,10 @@ Here are some ideas to get you started: -->
 
 
 ## :fire: My GitHub Data📊 :
+
+</div>
+<img src="https://komarev.com/ghpvc/?username=EniolaAdemola&style=flat-square&color=blue" alt="Profile counter badge" />
+</div>
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EniolaAdemola&show_icons=true" />
