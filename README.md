@@ -1,5 +1,7 @@
+<img align="left" src="https://komarev.com/ghpvc/?username=EniolaAdemola&style=flat-square&color=blue" alt="Profile counter badge" />
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Eniola Ademola</h1>
-<h3 align="center">A Fullstack Developer</h3>
+<h3 align="center">A Web Developer</h3>
+
 
 <!--
 **EniolaAdemola/EniolaAdemola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +36,8 @@ Here are some ideas to get you started: -->
 
 - ⚡ Fun fact: I use most of my time making reasearch, watching videos and learning new things.
 
-## 🛠️ Technologies and Tools I use:
+## 🛠️ Technologies and Tools I use:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+
 
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
@@ -65,7 +68,7 @@ Here are some ideas to get you started: -->
 </p>
 
 
-## :fire: My GitHub Data📊 :
+## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> :
 
 </div>
 <img src="https://komarev.com/ghpvc/?username=EniolaAdemola&style=flat-square&color=blue" alt="Profile counter badge" />
@@ -79,6 +82,20 @@ Here are some ideas to get you started: -->
 <div align="center">
   ---
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EniolaAdemola&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Might use thislater to show TOP LANGUAGE -->
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EniolaAdemola&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats) 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EniolaAdemola&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="EniolaAdemola language" height="192px"/>
+-->
 </div>
+
+---
+
+<!-- Markdown -->
+
+## 😄 Random dev joke for you ~ refresh for random jokes :)
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=prussian" alt="README Jokes"></a>
+
+
+---
