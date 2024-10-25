@@ -1,6 +1,6 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=EniolaAdemola&style=flat-square&color=blue" alt="Profile counter badge" />
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Eniola Ademola</h1>
-<h3 align="center">A Web Developer</h3>
+<h3 align="center">Web Developer | Data Scientist</h3>
 
 
 <!--
@@ -24,7 +24,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on `Something Interesting`.
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I Learn Everyday
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started: -->
 
 - 💬 Ask me about anything, Maths and Algorithm Inclusive :sweat_smile:
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- 👨‍💻 Life Hack: Learn new tech skill :fire: and share what you have learned :tada:
 
 - ⚡ Fun fact: I use most of my time making reasearch, watching videos and learning new things.
 
