@@ -22,7 +22,7 @@ Here are some ideas to get you started: -->
 
 - 🙋‍♂️ All about me is at **[My Website](https://eniola-ademola.vercel.app/)**
 
-- 🙋‍♂️ Suscribe to my YouTube CHannel **[My Channel](https://www.youtube.com/@TechWithDaveworld)**
+- 🙋‍♂️ Suscribe to my YouTube Channel **[My Channel](https://www.youtube.com/@TechWithDaveworld)**
 
 - 🔭 I’m currently working on `Something Interesting`.
 
