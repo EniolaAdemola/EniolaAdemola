@@ -96,11 +96,18 @@ Here are some ideas to get you started: -->
 
 <!-- Markdown -->
 
+
 ## 😄 Random dev joke for you ~ refresh for random jokes :)
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=prussian" alt="README Jokes"></a>
 
 
 ---
+<a href="https://badgr.com/public/assertions/-9a1mPoaTTuJfLEzAFV1qQ" target="_blank">
+  <img src="https://api.badgr.io/public/assertions/-9a1mPoaTTuJfLEzAFV1qQ/image" width="200" alt="Badge" />
+</a>
+
 [![@eniolaademola's Holopin board](https://holopin.io/api/user/board?user=eniolaademola)](https://holopin.io/@eniolaademola)
+
+
 
