@@ -109,5 +109,9 @@ Here are some ideas to get you started: -->
 
 [![@eniolaademola's Holopin board](https://holopin.io/api/user/board?user=eniolaademola)](https://holopin.io/@eniolaademola)
 
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=EniolaAdemola/python-refresher-course,EniolaAdemola/lisio-buddy,EniolaAdemola/tensorflow-basics,EniolaAdemola/customer-churn-classification,EniolaAdemola/langchain-basics&type=Date)](https://star-history.com/#EniolaAdemola/EniolaAdemola&EniolaAdemola/python-refresher-course&EniolaAdemola/lisio-buddy&EniolaAdemola/tensorflow-basics&EniolaAdemola/customer-churn-classification&EniolaAdemola/langchain-basics&Date)
+
 
 
